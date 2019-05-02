@@ -100,15 +100,15 @@ service-worker: true
 friends: [
     {
         title: "糖醋鱼",
-        href: "http://s.zzuzayu.top"
+        href: "http://zzutcy.top"
     },{
         title: "云盘",
         href: "https://pan.shuangzu.top"
     },{
         title: "Inc_志伟",
-        href: "http://incentancy.com"
+        href: "https://blog.aspi.tech"
     },{
-        title: "郑大计算机协会",
-        href: "http://www.yangsx.club"
+        title: "王政乔",
+        href: "http://me.zhengqiao.wang"
     }
 ]
